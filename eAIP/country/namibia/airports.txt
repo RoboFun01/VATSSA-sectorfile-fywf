@@ -1,0 +1,8 @@
+==== Namibia Airports ====
+
+^ ICAO      ^ Name          ^ City          ^ Status        ^ Remarks ^
+| [[airport:fywh:home|FYWH]]  | Name          | City          | In Development             | - |
+
+
+
+{{page>fy-footer#Namibia}}

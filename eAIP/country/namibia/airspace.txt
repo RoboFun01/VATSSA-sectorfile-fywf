@@ -1,0 +1,7 @@
+==== Namibia Airspace ====
+
+^ ICAO  ^ Name     ^ SSA Code  ^ Type    ^ Remarks ^
+| FYWF  | Wyndhoek | [[airspace:fywf:home|FYWF]]  | -       | - |
+
+
+{{page>fy-footer#Namibia}}

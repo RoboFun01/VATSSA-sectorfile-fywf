@@ -1,0 +1,13 @@
+===== FYWH Windhoek Flight Information Region =====
+
+  * The Windhoek FIR covers the entirety of [[country:namigia:home|Namibia]]'s borders.
+
+==== Airport Coverage ====
+
+Windhoek covers the following airports:
+
+=== Namibia ===
+
+{{page>country:namibia:airports#Namibia Airports}}
+
+{{page>fy-footer#FYWH}}

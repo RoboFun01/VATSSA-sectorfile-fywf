@@ -1,0 +1,8 @@
+===== Namibia Information =====
+
+Namibia, officially the Republic of Namibia, is a country in Southern Africa. Its western border is the Atlantic Ocean. It shares land borders with [[country:zambia:home|Zambia]] and [[country:angola:home|Angola]] to the north, [[country:botswana:home|Botswana]] to the east and [[country:south-africa:home|South Africa]] to the south and east. Although it does not border [[country:zimbabwe:home|Zimbabwe]], less than 200 metres (660 feet) of the [[country:botswana:home|Botswana]] right bank of the Zambezi River separates the two countries. Namibia gained independence from South Africa on 21 March 1990, following the Namibian War of Independence. Its capital and largest city is Windhoek. Namibia is a member state of the United Nations (UN), the Southern African Development Community (SADC), the African Union (AU) and the Commonwealth of Nations. 
+
+For more information, please visit [[https://en.wikipedia.org/wiki/Namibia|Wikipedia]].
+
+
+{{page>fy-footer#Namibia}}
