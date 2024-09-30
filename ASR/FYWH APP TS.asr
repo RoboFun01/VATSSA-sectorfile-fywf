@@ -6,27 +6,14 @@ SECTORTITLE:
 Free Text:FY Airport Elevations\FYLZ-423ft:freetext
 Free Text:FY Airport Elevations\FYWB-271ft:freetext
 Free Text:FY Airport Elevations\FYWH-5630ft:freetext
-Free Text:FYWH Airport\A:freetext
-Free Text:FYWH Airport\Apron:freetext
-Free Text:FYWH Airport\B:freetext
-Free Text:FYWH Airport\C:freetext
-Free Text:FYWH Airport\D:freetext
-Free Text:FYWH Airport\E:freetext
-Free Text:FYWH Airport\F:freetext
-Free Text:FYWH Airport\FYWH:freetext
-Free Text:FYWH Airport\Terminal:freetext
 Free Text:FYWH MVA\7500:freetext
 Free Text:FYWH MVA\8000:freetext
 Free Text:FYWH MVA\8000:freetext
 Free Text:FYWH MVA\8500:freetext
 Free Text:FYWH MVA\9000:freetext
 Free Text:FYWH MVA\9500:freetext
-Geo:FYWH Groundlayout:
-Geo:FYWH Groundlayout Stopbars:
-Geo:FYWH Groundlayout Taxiway Centerlines:
 Geo:FYWH MRVA:
 Geo:GEO:
-Regions:FYWH Groundlayout:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:500

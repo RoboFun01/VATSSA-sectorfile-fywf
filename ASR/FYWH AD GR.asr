@@ -4,11 +4,7 @@ DisplayTypeGeoReferenced:1
 SECTORFILE:
 SECTORTITLE:
 Geo:FYWB Groundlayout:
-Geo:FYWH Groundlayout:
-Geo:FYWH Groundlayout Stopbars:
-Geo:FYWH Groundlayout Taxiway Centerlines:
 Geo:FYWH Landmark Windhoek City:
-Regions:FYWH Groundlayout:polygon
 SHOWC:1
 SHOWSB:1
 BELOW:0
