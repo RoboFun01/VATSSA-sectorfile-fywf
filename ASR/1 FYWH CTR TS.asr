@@ -23,12 +23,8 @@ Free Text:FYWH MVA\9000:freetext
 Free Text:FYWH MVA\9500:freetext
 Geo:FYLZ Groundlayout:
 Geo:FYWB Groundlayout:
-Geo:FYWH Groundlayout:
-Geo:FYWH Groundlayout Stopbars:
-Geo:FYWH Groundlayout Taxiway Centerlines:
 Geo:FYWH MRVA:
 Geo:GEO:
-Regions:FYWH Groundlayout:polygon
 SHOWC:1
 SHOWSB:0
 BELOW:0
